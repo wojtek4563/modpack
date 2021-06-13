@@ -1,19 +1,12 @@
 {
-    "minimumVersion": 1,
-    "packages": [
-        {
-            "name": "Light Modpack",
-            "title": "Light Modpack",
-            "version": "20100223",
-            "location": "lightpack.json",
-            "priority": 1
-        },
-        {
-            "name": "Monster Modpack",
-            "title": "Monster Modpack",
-            "version": "20100223",
-            "location": "monsterpack.json",
-            "priority": 1
-        }
-    ]
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "ModpackClient",
+      "name" : "ModpackClient",
+      "version" : "2021-06-13-23-41-10",
+      "location" : "modpackclient.json",
+      "priority" : 0
+    }
+  ]
 }
