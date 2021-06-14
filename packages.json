@@ -2,10 +2,10 @@
   "minimumVersion" : 1,
   "packages" : [
     {
-      "title" : "ModpackClient",
-      "name" : "ModpackClient",
-      "version" : "2021-06-13-23-41-10",
-      "location" : "modpackclient.json",
+      "title" : "Mody na serwer",
+      "name" : "Mody na serwer",
+      "version" : "2021-06-14-22-21-07",
+      "location" : "mody-na-serwer.json",
       "priority" : 0
     }
   ]
